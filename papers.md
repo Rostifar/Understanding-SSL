@@ -1,1 +1,0 @@
-/home/ross/notes/research/ssl-theory/papers.md
