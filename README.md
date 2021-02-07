@@ -25,7 +25,9 @@ complexity of semi-supervised learning](https://www.learningtheory.org/colt2008/
 - [In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning](https://arxiv.org/abs/2101.06329)
 - [Meta Pseudo Labels](https://arxiv.org/abs/2003.10580)
 - [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/pdf/1904.12848.pdf)
-
+- [When Does Self-Supervision Improve Few-Shot Learning](https://arxiv.org/abs/1910.03560)
+- [Rethinking Pre-training and Self-training](https://arxiv.org/abs/2006.06882)
+- [Supervised contrastive learning](https://arxiv.org/abs/2004.11362)
 
 ### Theory:
 - [Understanding Self-Training for Gradual Domain Adaptation](https://arxiv.org/pdf/2002.11361.pdf)
