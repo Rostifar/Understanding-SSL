@@ -40,6 +40,7 @@ complexity of semi-supervised learning](https://www.learningtheory.org/colt2008/
 - [Unsupervised Label Noise Modeling and Loss Correction](https://arxiv.org/abs/1904.11238)
 - [Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data]()
 - [Self-training Avoids Using Spurious Features Under Domain Shift](https://arxiv.org/abs/2006.10032) 
+- [Intriguing Properties of Contrastive Losses]()
 
 <!---
 Q: Distinction between self-training, pseudo-labeling, and consistency regularization?
