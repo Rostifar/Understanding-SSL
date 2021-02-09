@@ -31,6 +31,7 @@ complexity of semi-supervised learning](https://www.learningtheory.org/colt2008/
 - [BREEDS: Benchmarks for Subpopulation Shift](https://arxiv.org/abs/2008.04859)
 - [Deep Self-Learning from Noisy Labels](https://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper)
 - [Does Label Smoothing Mitigate Label Noise?](https://arxiv.org/pdf/2003.02819)
+- [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://papers.nips.cc/paper/2018/file/c1fea270c48e8079d8ddf7d06d26ab52-Paper.pdf)
 
 ### Theory:
 - [Understanding Self-Training for Gradual Domain Adaptation](https://arxiv.org/pdf/2002.11361.pdf)
