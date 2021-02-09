@@ -49,7 +49,7 @@ complexity of semi-supervised learning](https://www.learningtheory.org/colt2008/
 - [Intriguing Properties of Contrastive Losses]()
 - [Does learning require memorization? a short tale about a long tail]()
 - [What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation]()
-- [Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks] (https://arxiv.org/pdf/1901.08584.pdf)
+- [Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks](https://arxiv.org/pdf/1901.08584.pdf)
 - [For self-supervised learning, Rationality implies generalization, provably]()
 
 <!---
