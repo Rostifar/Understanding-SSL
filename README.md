@@ -28,6 +28,7 @@ complexity of semi-supervised learning](https://www.learningtheory.org/colt2008/
 - [When Does Self-Supervision Improve Few-Shot Learning](https://arxiv.org/abs/1910.03560)
 - [Rethinking Pre-training and Self-training](https://arxiv.org/abs/2006.06882)
 - [Supervised contrastive learning](https://arxiv.org/abs/2004.11362)
+- [BREEDS: Benchmarks for Subpopulation Shift](https://arxiv.org/abs/2008.04859)
 
 ### Theory:
 - [Understanding Self-Training for Gradual Domain Adaptation](https://arxiv.org/pdf/2002.11361.pdf)
@@ -43,6 +44,8 @@ complexity of semi-supervised learning](https://www.learningtheory.org/colt2008/
 - [Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data]()
 - [Self-training Avoids Using Spurious Features Under Domain Shift](https://arxiv.org/abs/2006.10032) 
 - [Intriguing Properties of Contrastive Losses]()
+- [Does learning require memorization? a short tale about a long tail]
+- [What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation]
 
 <!---
 Q: Distinction between self-training, pseudo-labeling, and consistency regularization?
